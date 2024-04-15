@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Projeto Alura+ com HTML/CSS e React + TypeScript + Vite
 
 Projeto final proposto pelo curso "HTML e CSS: praticando HTML/CSS" da plataforma de cursos Alura.
 
